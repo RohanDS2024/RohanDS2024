@@ -44,10 +44,10 @@ I am a **Cybersecurity Master’s Student** at Florida Atlantic University (FAU)
 
 ### 📊 Operational Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanDS2024&show_icons=true&theme=radical&hide_border=true" alt="Rohan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDS2024&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+### 📊 Operational Stats
+
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanDS2024&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDS2024&layout=compact&theme=radical&hide_border=true)
 
 ---
 
