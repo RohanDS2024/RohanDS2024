@@ -35,7 +35,7 @@ I am a **Cybersecurity Master’s Student** at Florida Atlantic University (FAU)
 * **Key Achievement:** Maintained **100% uptime** for critical WinRM and RDP services on a headless **Windows Server Core** node.
 * **Technical Win:** Identified and mitigated C2 beaconing traffic via Wireshark and enforced strict egress filtering for the Black Team Agent (BTA).
 
-#### ☁️ [ROI Pro - Cloud Financial Tool](https://github.com/RohanDS2024/ROI-Pro)
+#### ☁️ [ROI_analyzer - Cloud Financial Tool](https://github.com/RohanDS2024/ROI_analyzer)
 **Role:** Cloud Architect & Full-Stack Developer
 * **The Mission:** Developed a cloud-hosted financial analysis tool.
 * **Security Focus:** Implemented **Least Privilege IAM Roles**, secured S3 buckets with encryption-at-rest, and utilized VPC Security Groups to restrict database access.
