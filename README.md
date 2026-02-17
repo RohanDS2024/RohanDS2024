@@ -41,9 +41,6 @@ I am a **Cybersecurity Master’s Student** at Florida Atlantic University (FAU)
 * **Security Focus:** Implemented **Least Privilege IAM Roles**, secured S3 buckets with encryption-at-rest, and utilized VPC Security Groups to restrict database access.
 
 ---
-
-### 📊 Operational Stats
-
 ### 📊 Operational Stats
 
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanDS2024&show_icons=true&theme=radical&hide_border=true)
