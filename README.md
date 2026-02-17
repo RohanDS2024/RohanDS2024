@@ -52,5 +52,5 @@ I am a **Cybersecurity Master’s Student** at Florida Atlantic University (FAU)
 ---
 
 ### 📡 Secure Comms
-* **LinkedIn:** [(https://www.linkedin.com/in/rohan-d-s-97a192216/)]([https://www.linkedin.com/in/rohan-d-s-97a192216/])
-* **Email:** [rohandstech@gmail.com]
+* **LinkedIn:** [linkedin.com/in/rohan-d-s](https://www.linkedin.com/in/rohan-d-s-97a192216/)
+* **Email:** [rohandstech@gmail.com](mailto:rohandstech@gmail.com)
